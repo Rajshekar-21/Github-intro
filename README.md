@@ -1,7 +1,7 @@
 # Github-intro
 hi github,
-#include <stdio.h>
-void main()
-{
-printf("hello world");
-}
+<html>
+  <title>you</title>title><head>
+    <p>hi sisya</p>
+  </head></title>
+</html>
